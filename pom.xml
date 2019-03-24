@@ -13,7 +13,7 @@
 	<groupId>demo</groupId>
 	<artifactId>reactive-for-webmvc</artifactId>
 	<version>0.0.1.BUILD-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>pom</packaging>
 
 	<name>Reactive Guide for Spring MVC</name>
 	<description>Demo for the talk "Spring MVC Developer's Guide to Reactive"</description>
